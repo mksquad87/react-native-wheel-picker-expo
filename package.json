@@ -74,7 +74,7 @@
   },
   "peerDependencies": {
     "expo-haptics": ">=12.8.1",
-    "expo-linear-gradient": ">=^12.7.2",
+    "expo-linear-gradient": ">=12.7.2",
     "react": "*",
     "react-native": "*"
   },
